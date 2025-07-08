@@ -84,7 +84,6 @@ This GitHub repository includes:
 - 📄 The Final Report (`.pdf`)
 - 📦 A ZIP file containing both of the above
 
-> **Public GitHub Repository Link** to be submitted as required.
 
 ---
 
